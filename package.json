@@ -1,0 +1,24 @@
+{
+  "name": "dht2redis",
+  "version": "0.0.1",
+  "description": "DHT sensor result is fetched and stored in Redis DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjuerkzhang/dht2redis.git"
+  },
+  "keywords": [
+    "DHT",
+    "sensor",
+    "redis"
+  ],
+  "author": "kevin zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjuerkzhang/dht2redis/issues"
+  },
+  "homepage": "https://github.com/zjuerkzhang/dht2redis#readme"
+}
