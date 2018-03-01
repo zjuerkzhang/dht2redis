@@ -4,7 +4,8 @@
   "description": "DHT sensor result is fetched and stored in Redis DB",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node ./index"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,9 @@
   ],
   "author": "kevin zhang",
   "license": "ISC",
+  "dependencies": {
+    "node-dht-sensor": "0.0.32"
+  },
   "bugs": {
     "url": "https://github.com/zjuerkzhang/dht2redis/issues"
   },
