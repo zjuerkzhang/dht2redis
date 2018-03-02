@@ -19,7 +19,9 @@
   "author": "kevin zhang",
   "license": "ISC",
   "dependencies": {
-    "node-dht-sensor": "0.0.32"
+    "node-dht-sensor": "0.0.32",
+    "config": "1.30.0",
+    "redis": "2.8.0"
   },
   "bugs": {
     "url": "https://github.com/zjuerkzhang/dht2redis/issues"

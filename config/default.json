@@ -1,0 +1,11 @@
+{
+    "sensor": {
+        "type": 22,
+        "gpio_pin": 17
+    },
+    //"redis_server": {
+    //    "host": "127.0.0.1",
+    //    "port": "6379"
+    //},
+    "period": 1800000
+}
